@@ -1,5 +1,5 @@
 
-REACT İLE SIKLIKLA KARŞILAŞILAN PROBLEMLER VE ÇÖZÜMLERİ,
+REACT a lot of has a problems and solve,
 Gelin birlikte bakalım;
 
 ✅ Performans Sorunları: Uygulamaların yavaşlaması veya donması, özellikle büyük ve karmaşık uygulamalarda yaygın bir sorundur. Bu sorunun üstesinden gelmek için şu adımları öneriyorum:
