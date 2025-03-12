@@ -1,6 +1,5 @@
 
-REACT a lot of has a problems and solve,
-Gelin birlikte bakalım;
+REACT  code problems  and  solitions 
 
 ✅ Performans Sorunları: Uygulamaların yavaşlaması veya donması, özellikle büyük ve karmaşık uygulamalarda yaygın bir sorundur. Bu sorunun üstesinden gelmek için şu adımları öneriyorum:
 •	Komponentlerin doğru şekilde optimize edilmesi.
